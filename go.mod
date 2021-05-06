@@ -1,4 +1,4 @@
-module github.com/duderman/heartpoke-upload-lambda
+module github.com/duderman/heartpoke-presign-lambda
 
 go 1.16
 
